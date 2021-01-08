@@ -1,6 +1,5 @@
 import React,{useState} from 'react';
-import Review from '../Review/Review';
-import SingleQuestion from './Questions';
+import Review from './Review';
 import data from './data'
 
 

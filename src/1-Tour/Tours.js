@@ -1,5 +1,5 @@
 import React from 'react';
-import Tour from './1-Tour/Tour';
+import Tour from './Tour';
 
 const Tours = ({tours,RemoveTour}) => {
   return <section>
